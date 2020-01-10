@@ -2,10 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dec1b63f-f1c6-4752-a732-23bf3a93f9b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ship-manage/src/js/addAlarmShipImg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ship-manage/src/js/showAlarmRings.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ship-manage/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/config/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ship-manage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/components/Alarm/AlarmShips.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/components/Alarm/AlarmShips.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/components/MapManage/olmap.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/components/MapManage/olmap.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/components/MapManage/olmapApp.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/components/MapManage/olmapApp.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/components/Searchcount/Sailcount.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/components/Searchcount/Sailcount.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/components/ShipManage/GroupManage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/components/ShipManage/GroupManage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/components/ShipManage/MyShips.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/components/ShipManage/MyShips.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/components/ShipManage/NoPowerSearch.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/components/ShipManage/NoPowerSearch.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/components/ShipManage/NoPowerShips.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/components/ShipManage/NoPowerShips.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/components/ShipManage/Search.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/components/ShipManage/Search.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ship-manage/src/components/ShipMian.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/components/ShipMian.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/components/System/Password.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/components/System/Password.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/components/views/TheLogin.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/components/views/TheLogin.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/js/addLocationImg.js" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/js/addLocationImg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/js/addShipCluster.js" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/js/addShipCluster.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship-manage/src/js/showShipTrace.js" beforeDir="false" afterPath="$PROJECT_DIR$/ship-manage/src/js/showShipTrace.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +45,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ship-manage" />
   </component>
@@ -39,13 +61,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/static/css/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/www/static/css/static" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/static/css/static" />
+      <recent name="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css" />
+      <recent name="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/static/css/static/fonts" />
+      <recent name="$PROJECT_DIR$/www/static/css/static/fonts" />
       <recent name="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/static/css/fonts" />
     </key>
   </component>
@@ -74,6 +100,11 @@
       <workItem from="1573441121169" duration="490000" />
       <workItem from="1573441706219" duration="4001000" />
       <workItem from="1573452430585" duration="37446000" />
+      <workItem from="1573634767968" duration="17312000" />
+      <workItem from="1574853371277" duration="61877000" />
+      <workItem from="1578273494287" duration="8970000" />
+      <workItem from="1578618020117" duration="4000" />
+      <workItem from="1578622572987" duration="923000" />
     </task>
     <servers />
   </component>
@@ -85,7 +116,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
